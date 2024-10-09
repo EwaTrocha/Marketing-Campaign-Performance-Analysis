@@ -18,24 +18,24 @@ This project involves analyzing user engagement trends across different marketin
 ## Key Findings
 
 -**Best Performing Campaign**: 
--The **Black Friday v2** campaign stood out with the longest session duration and the lowest bounce rate.
+  -The **Black Friday v2** campaign stood out with the longest session duration and the lowest bounce rate.
   
 -**Weekday Trends**:
--Campaign performance peaks on **Wednesdays**, while other sources maintain a steady average session duration.
+  -Campaign performance peaks on **Wednesdays**, while other sources maintain a steady average session duration.
   
 -**Referral Traffic**:
--While referral traffic has the longest session duration, it also has the highest bounce rate, indicating a mismatch in targeting.
+  -While referral traffic has the longest session duration, it also has the highest bounce rate, indicating a mismatch in targeting.
 
 -**Bounce Rate**:
--Bounce rates for campaigns are more uneven compared to other traffic sources, suggesting potential data collection issues or inconsistencies in performance.
+  -Bounce rates for campaigns are more uneven compared to other traffic sources, suggesting potential data collection issues or inconsistencies in performance.
 
 -## Actionable Insights
 
 -**Focus on Success Factors**:
--Leverage the creative content, timing, and target audience strategies from the Black Friday v2 campaign.
+  -Leverage the creative content, timing, and target audience strategies from the Black Friday v2 campaign.
   
 -**Maximize High-Engagement Days**:
--Prioritize marketing efforts on **Wednesdays, Fridays, and Saturdays**, when user engagement is highest.
+  -Prioritize marketing efforts on **Wednesdays, Fridays, and Saturdays**, when user engagement is highest.
   
 **Improve Referral Traffic**:
 Investigate whether referral sources are bringing in the right audience and improve landing pages or content relevance if needed.
